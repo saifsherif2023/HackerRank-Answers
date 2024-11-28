@@ -1,4 +1,4 @@
-# HackerRank-Certificates
+# HackerRank Certificates
  HackerRank Certificates (DEPI)
 
 1. Problem Solving (Basic)

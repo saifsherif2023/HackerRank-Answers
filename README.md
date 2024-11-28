@@ -1,2 +1,2 @@
-# HackerRank-Certificate
- HackerRank Certificate (DEPI)
+# HackerRank-Certificates
+ HackerRank Certificates (DEPI)

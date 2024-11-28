@@ -1,2 +1,2 @@
-# HackerRank-Answers
- HackerRank Certificates Answers (DEPI)
+# HackerRank-Certificate
+ HackerRank Certificate (DEPI)
